@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sport</string>
+
+    <string name="logo">Logo</string>
+    <string-array name="options">
+        <item>Sport</item>
+        <item>Shop</item>
+        <item>Contacts</item>
+    </string-array>
+</resources>
